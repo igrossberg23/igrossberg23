@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igrossberg23
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on front end web development projects
 - 📫 How to reach me: igrossberg23@gmail.com
 
