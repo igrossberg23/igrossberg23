@@ -8,7 +8,7 @@ I'm a Full Stack Developer with a strong focus on **frontend engineering**, curr
 
 - ⚛️ React / Next.js / Vite
 - 🟦 TypeScript / JavaScript (ESNext)
-- 💅 Tailwind CSS / MUI / Headless UI
+- 💅 Tailwind CSS / MUI / SASS
 - 🌐 Node.js / Express / REST APIs
 - 🗄️ MySQL / MongoDB
 - 🧪 Jest / React Testing Library / Cypress
