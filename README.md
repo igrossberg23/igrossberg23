@@ -42,4 +42,6 @@ I'm a Full Stack Developer with a strong focus on **frontend engineering**, curr
 
 ### 📊 GitHub Stats
 
+Sadly does not include my previous work which was all captured in Azure.
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igrossberg23&show_icons=true&theme=react)
